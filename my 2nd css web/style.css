@@ -1,0 +1,70 @@
+body{background-color: black;}
+#h2p{ border-radius: 30px ; border: solid red;height: auto; color: red; text-shadow: 0px 0px 20px red; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; text-align: center;}
+.ppo{margin: 100px;}
+.goo{color: brown;}
+.goooo{color: rgb(255, 11, 11);}
+#he1{margin: 50px; font-family: impact; width: auto;max-height: 200px; text-align: center;}
+#h1p{color: red; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; }
+.ht1{text-shadow: 0px 0px 1px rgb(2, 252, 2); color: rgb(108, 223, 0);}
+.ht2{text-shadow: 0px 0px 1px rgb(174, 255, 0); color: rgb(174, 255, 0);}
+.ht3{text-shadow: 0px 0px 1px rgb(255, 153, 0); color: rgb(255, 153, 0);}
+.ht4{text-shadow: 0px 0px 1px rgb(255, 204, 0); color: rgb(255, 204, 0);}
+#ch1{color:rgb(255, 0, 0); font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serifS}
+#ch2{text-shadow: 0PX 0PX 2PX rgb(0, 0, 0); color: rgb(0, 255, 0);font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+#im1{border-radius: 30px; float: left; margin: 10px;border: solid 5px rgb(255, 255, 255);}
+#ho1{border-radius: 5px; border: dotted yellow ; color: yellow; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+#IM2{float: left; margin: 20px; border: solid white; border-radius: 30px;}
+#AB1{text-shadow: 0px 0px 5px yellow; color: yellow; font-family: cursive;}
+#HO2{border-radius: 5px; border: dotted rgb(0, 242, 0); color: rgb(10, 255, 10); font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+#IM3{ margin: 30px; height: 60px;border-radius: 20px;}
+.LI1{text-shadow: 0px 0PX 5px rgb(255, 0, 0); color: RED; border: SOLID RED 3PX; border-radius: 5px;}
+.LI2{text-shadow: 0px 0PX 5px rgb(64, 0, 255); color:blue; border: SOLID BLUE 3PX; border-radius: 5px;}
+.LI3{text-shadow: 0px 0PX 5px rgb(255, 0, 162); color: rgb(231, 16, 134); border: SOLID rgb(231, 16, 134) 3PX; border-radius: 5px;}
+.YT1{color: rgb(254, 254, 5); font-family: Impact;}
+#YT4{font-family: Impact;}
+#LG1{height: auto; max-width: 210px; border-radius: 30px; border: solid white 4px; margin: 10px; margin-top: 50px;}
+#pr1{text-align: left; width: auto;height: auto; text-shadow: 0px 0px 10px rgb(79, 5, 5); color: rgb(255, 255, 255); font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+#ST1{margin-left: 30px;border: dotted rgb(0, 255, 0); border-radius: 5px;}
+#MA1{margin-left: 15PX; color: WHITE;}
+#he1{border-radius: 10px;}
+#h4t{text-align: center; height: auto; width:auto ; color: white; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+#h2y{margin-left: 30PX;} 
+#po{
+    color: rgb(4, 192, 255) ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin: 30px;
+    margin-top: 30px;
+    height: auto;
+    width: auto;
+
+    text-shadow: 0px 0px 10px rgb(1, 115, 255) ;
+
+}
+#SP1{
+    color: white;
+   margin-left: 50PX;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   border: solid 2px red;
+   border-radius: 20px;
+   text-shadow: 0px 0px 30px red;
+}
+#d1{
+    background-color: red;
+    color: white;
+    display: inline-block;
+}
+#s1{
+    background-color: yellow;
+    color: white;
+    height: 100px;
+    display: block;
+}
+.box{
+    color: white;
+    border: 3px white solid;
+    height: auto;
+    width: 50%;
+    float: left;
+    margin: 20px;
+}
